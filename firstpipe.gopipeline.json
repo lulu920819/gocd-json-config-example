@@ -5,7 +5,7 @@
   "group" : "configrepo-example",
   "materials": [
     {
-      "url": "https://github.com/tomzo/gocd-json-config-example.git",
+      "url": "git@git.thoughtworks.net:llu/pipeline.git",
       "type": "git"
     }
   ],
