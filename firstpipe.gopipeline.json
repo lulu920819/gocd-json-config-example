@@ -1,11 +1,11 @@
 {
   "format_version" : 1,
-  "name": "firstpipe",
+  "name": "firstpipe_http",
   "environment_variables": [],
   "group" : "configrepo-example",
   "materials": [
     {
-      "url": "git@git.thoughtworks.net:llu/pipeline.git",
+      "url": "https://github.com/tomzo/gocd-json-config-example.git",
       "type": "git"
     }
   ],

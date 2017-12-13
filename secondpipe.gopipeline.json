@@ -1,6 +1,6 @@
 {
   "format_version" : 1,
-  "name": "secondpipe",
+  "name": "secondpipe_http",
   "enable_pipeline_locking": false,
   "group" : "configrepo-example",
   "environment_variables": [],
